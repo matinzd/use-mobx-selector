@@ -1,7 +1,7 @@
 {
   "name": "use-mobx-selector",
   "version": "0.1.1",
-  "description": "Mobx store selector utility in react",
+  "description": "Mobx store selector utility for react",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
